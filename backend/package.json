@@ -1,0 +1,28 @@
+{
+  "name": "skillswap-backend",
+  "version": "1.0.0",
+  "description": "SkillSwap Backend - Graph-Based Skill Exchange & Learning Platform powered by CognoDB openCypher",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "seed": "node seed/seed.js"
+  },
+  "keywords": [
+    "cognodb",
+    "opencypher",
+    "neo4j-driver",
+    "graph-database",
+    "skill-swap",
+    "recommendations",
+    "multi-hop-traversal"
+  ],
+  "author": "SkillSwap Team",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "neo4j-driver": "^5.28.1"
+  }
+}

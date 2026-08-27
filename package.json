@@ -1,0 +1,21 @@
+{
+  "name": "skillswap",
+  "version": "1.0.0",
+  "description": "SkillSwap – Graph-Based Skill Exchange & Learning Platform powered by CognoDB openCypher",
+  "scripts": {
+    "install:all": "npm install --prefix backend && npm install --prefix frontend",
+    "seed": "npm run seed --prefix backend",
+    "start:backend": "npm start --prefix backend",
+    "start:frontend": "npm run dev --prefix frontend"
+  },
+  "keywords": [
+    "cognodb",
+    "opencypher",
+    "neo4j-driver",
+    "graph-database",
+    "skill-swap",
+    "recommendations"
+  ],
+  "author": "SkillSwap Team",
+  "license": "MIT"
+}
