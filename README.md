@@ -370,13 +370,6 @@ For your **2–4 minute screen recording demo**:
 
 ---
 
-## 11. Assignment Submission Details
 
-- **Submission Email**: `hr@wexa.ai`
-- **Subject Line**: `CognoDB Assignment 2 – <Your Name>`
-- **Repository**: Public / Shared GitHub repository URL
-- **Hosted Demo**: Vercel / Render hosted link (optional but provided)
-
----
 
 *Built with ❤️ for the Wexa AI Candidate Take-Home Assignment.*
